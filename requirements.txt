@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikit-learn
+imbalanced-learn   # provides SMOTE (imblearn.over_sampling.SMOTE)
+joblib
